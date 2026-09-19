@@ -1,0 +1,26 @@
+{
+    "quizzes": [
+        {
+            "id": "wendigo",
+            "name": "Wendigo",
+            "version": "1.0.0",
+            "description": "Quiz de test sur le Wendigo et ses légendes.",
+            "author": "Yohann",
+            "category": "Créatures légendaires",
+            "totalQuestions": 20,
+            "creationDate": "18/09/2026",
+            "downloadUrl": "https://yutasuka2702-spec.github.io/QuizMonsterHunter-Quizzes/quizzes/wendigo_v2.qmh"
+        },
+        {
+            "id": "vampire",
+            "name": "Vampire",
+            "version": "1.2.0",
+            "description": "Quiz de test consacré aux vampires et à leurs légendes.",
+            "author": "Yohann",
+            "category": "Créatures légendaires",
+            "totalQuestions": 20,
+            "creationDate": "18/09/2026",
+            "downloadUrl": "https://yutasuka2702-spec.github.io/QuizMonsterHunter-Quizzes/quizzes/vampire.qmh"
+        }
+    ]
+}
